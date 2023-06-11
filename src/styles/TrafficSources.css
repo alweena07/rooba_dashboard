@@ -1,0 +1,110 @@
+.Traffic__Sources__Text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Traffic__Sources__Label {
+  height: 30px;
+  width: 266px;
+  background: #ffffff;
+  border-radius: 12px;
+}
+
+.Traffic__Source__Text1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #a9a9a9;
+}
+
+.Traffic__Source__Text2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #b2b2b3;
+}
+
+.Direct {
+  width: 18px;
+  height: 12px;
+
+  background: #4cd7f6;
+  border-radius: 2px;
+  margin-top: 26px;
+  margin-left: 30px;
+}
+
+.Direct__Text {
+  position: absolute;
+  width: 30px;
+  height: 32px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+  top: 149px;
+  left: 72px;
+}
+
+.Direct__No {
+  margin-top: 17px;
+  margin-left: 140px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+}
+
+.Search {
+  width: 18px;
+  height: 12px;
+
+  background: #e17cfd;
+  border-radius: 2px;
+  margin-top: 26px;
+  margin-left: 30px;
+}
+
+.Search__Text {
+  position: absolute;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+  top: 198px;
+  left: 72px;
+}
+
+.Search__No {
+  margin-top: 17px;
+  margin-left: 140px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+}

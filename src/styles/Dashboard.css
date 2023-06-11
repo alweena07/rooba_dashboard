@@ -1,0 +1,59 @@
+.Dashboard__Container {
+  position: absolute;
+  top: 120.06px;
+  left: 300px;
+}
+
+.Container {
+  position: static;
+  width: 1150px;
+  left: 300px;
+  top: 22.89px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Dashboard__Container .Right__Topbar .Project_Title {
+  position: absolute;
+  width: 266px;
+  height: 44.26px;
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 46px;
+  color: #575353;
+}
+
+.Dashboard__Container .Right__Topbar .Project_Icon {
+  position: absolute;
+  margin-left: 281px;
+  top: 33px;
+}
+
+.Dashboard__Container .Right__Topbar .Project_Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+}
+
+.Dashboard__Container
+  .Left__Topbar
+  .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  min-width: 80px;
+  border-radius: 34px;
+  height: 49px;
+  text-transform: lowercase;
+  font-size: 0.8rem;
+  font-weight: 550;
+  box-shadow: none;
+}
+
+.Dashboard__Container
+  .Left__Topbar
+  .Btn
+  .css-sghohy-MuiButtonBase-root-MuiButton-root {
+  background: #ffffff70;
+  color: #706e6e;
+  font-weight: 550;
+  box-shadow: none;
+}

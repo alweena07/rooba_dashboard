@@ -1,0 +1,172 @@
+.ToTal__Visit__No {
+  width: 124.6px;
+  height: 37.32px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #7166f9;
+}
+
+.ToTal__Visit__Text {
+  font-family: "Roboto" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+}
+
+.Bounce__Rate__Percentage {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #ffffff;
+}
+
+.Bounce__Rate__Polygon {
+  border-radius: 1px;
+  transform: matrix(-1, -0.01, 0.01, -1, 0, 0);
+  color: #14ed44;
+}
+
+.Bounce__Rate__Text1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #f6f6fb;
+}
+
+.Bounce__Rate__Text2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #f6f6fb;
+  opacity: 0.72;
+}
+
+.Bounce__Rate__Help__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #f6f6fb;
+  margin-right: 19px;
+}
+
+.Card__Two__Calender__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+}
+
+.Card__Two__Total__VisitPer {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #2b2f42;
+}
+
+.Card__Two__Text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2b2f42;
+  opacity: 0.72;
+  margin-top: 6px;
+}
+
+.Card__Two__Help__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+  width: 0.5em;
+}
+
+.Card__Three__Polygon .css-i4bv87-MuiSvgIcon-root {
+  fill: #fd2e00;
+}
+
+.Card__Four__Polygon .css-i4bv87-MuiSvgIcon-root {
+  fill: #fd2e00;
+}
+
+.Card__One__Percentage {
+  font-family: "Roboto" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.Card__Three__Percentage {
+  font-family: "Roboto" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.Card__Four__Percentage {
+  font-family: "Roboto" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.Card__Three__Person__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+}
+
+.Card__Four__Hourglass__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+}
+
+.Card__Three__Total__Visit {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #2b2f42;
+}
+
+.Card__Three__Text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2b2f42;
+  opacity: 0.72;
+}
+
+.Card__Four__Total__Duration {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #2b2f42;
+}
+
+.Card__Four__Text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2b2f42;
+  opacity: 0.72;
+}
+
+.Column__Two .col-6 {
+  width: 47% !important;
+}

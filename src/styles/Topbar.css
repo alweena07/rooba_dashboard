@@ -1,0 +1,104 @@
+.Topbar__Container {
+  position: absolute;
+  width: 1150px;
+  left: 300px;
+  top: 22.89px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Horizontal__Line {
+  position: absolute;
+  border: 1px solid #fff;
+  width: 76%;
+  left: 314px;
+  top: 90px;
+}
+
+.Topbar__Container .Right__Topbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Topbar__Container .Right__Topbar .Reactangle {
+  position: absolute;
+  width: 48px;
+  height: 47px;
+  left: 0px;
+  top: 9px;
+  background: #f6f6fb;
+  border-radius: 11px;
+}
+
+.Topbar__Container .Right__Topbar .Boro__Team {
+  margin-left: 58px;
+  margin-top: 23px;
+  width: 93px;
+  height: 22.13px;
+  top: 39.24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.Topbar__Container
+  .Right__Topbar
+  .Drop__Down
+  .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  height: 23px;
+  width: 25px;
+  background: #ffffff;
+  margin-top: 23px;
+}
+
+.Topbar__Container
+  .Right__Topbar
+  .Drop__Down
+  .css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  right: 0px;
+}
+
+.Topbar__Container .Right__Topbar .Addition__Icon {
+  margin-left: 22px;
+  margin-top: 23px;
+}
+
+.Topbar__Container .Right__Topbar .Addition__Icon .css-i4bv87-MuiSvgIcon-root {
+  fill: #7166f9;
+}
+
+.Topbar__Container .Left__Topbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Topbar__Container
+  .Left__Topbar
+  .Drop__Down
+  .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {
+  height: 23px;
+  width: 25px;
+  background: #ffffff;
+  margin-top: 25px;
+}
+
+.Topbar__Container
+  .Left__Topbar
+  .Drop__Down
+  .css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  right: 0px;
+}
+
+.Topbar__Container .Left__Topbar .User__Profile {
+  margin-right: 6px;
+  margin-top: 25px;
+}
+
+.Topbar__Container .Left__Topbar .User__Name {
+  margin-right: 6px;
+  margin-top: 25px;
+}

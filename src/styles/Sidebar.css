@@ -1,0 +1,53 @@
+.css-ag7rrr-MuiTypography-root {
+  font-size: 18px !important;
+  line-height: 23.44px !important;
+  font-weight: 550 !important;
+}
+
+.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+ background: linear-gradient(to bottom left, #4cd7f6, #E17CFD 70%);
+}
+
+.ps-menu-button:hover {
+  color: #7166f9 !important;
+}
+
+.css-1wvake5 {
+  margin-left: -8px;
+  margin-top: -8px;
+}
+
+.Sidebar__Footer {
+  margin-top: 140px;
+}
+
+.css-1wvake5{
+    height: 950px;
+}
+
+.Menu__Container .css-ahj2mt-MuiTypography-root {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;
+}
+
+.Concured .css-ag7rrr-MuiTypography-root {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.logout p:last-child{
+    color:#928484;
+}
+
+.logout .css-i4bv87-MuiSvgIcon-root{
+    color:#928484;
+}
+
